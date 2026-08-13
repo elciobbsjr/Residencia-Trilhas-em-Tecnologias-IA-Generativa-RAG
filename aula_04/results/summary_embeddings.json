@@ -1,0 +1,225 @@
+{
+  "embedding_model": "openai/text-embedding-3-small",
+  "documents": [
+    "bioetica_e_ia",
+    "escrita_academica_ia",
+    "twitter_algoritmo"
+  ],
+  "num_documents": 3,
+  "num_experiments_expected": 30,
+  "num_experiments_success": 30,
+  "num_errors": 0,
+  "results": [
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 1,
+      "num_chunks": 257,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 2,
+      "num_chunks": 103,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 3,
+      "num_chunks": 52,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 4,
+      "num_chunks": 26,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 5,
+      "num_chunks": 114,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 6,
+      "num_chunks": 171,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 7,
+      "num_chunks": 135,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 8,
+      "num_chunks": 135,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 9,
+      "num_chunks": 73,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "bioetica_e_ia",
+      "test_id": 10,
+      "num_chunks": 25,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 1,
+      "num_chunks": 212,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 2,
+      "num_chunks": 86,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 3,
+      "num_chunks": 43,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 4,
+      "num_chunks": 22,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 5,
+      "num_chunks": 95,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 6,
+      "num_chunks": 142,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 7,
+      "num_chunks": 116,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 8,
+      "num_chunks": 99,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 9,
+      "num_chunks": 60,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "escrita_academica_ia",
+      "test_id": 10,
+      "num_chunks": 20,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 1,
+      "num_chunks": 273,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 2,
+      "num_chunks": 109,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 3,
+      "num_chunks": 55,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 4,
+      "num_chunks": 28,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 5,
+      "num_chunks": 121,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 6,
+      "num_chunks": 181,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 7,
+      "num_chunks": 196,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 8,
+      "num_chunks": 123,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 9,
+      "num_chunks": 78,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    },
+    {
+      "document_id": "twitter_algoritmo",
+      "test_id": 10,
+      "num_chunks": 22,
+      "embedding_dimension": 1536,
+      "status": "generated"
+    }
+  ],
+  "errors": []
+}
