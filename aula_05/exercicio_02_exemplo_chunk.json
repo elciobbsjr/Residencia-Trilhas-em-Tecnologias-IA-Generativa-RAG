@@ -1,0 +1,16 @@
+{
+  "page_content": "No entanto, a rápida expansão e incorporação da IA à prática clínica não ocorre sem desafios. A  adoção  acelerada  dessas  tecnologias  suscita preocupações éticas significativas, especialmente no que diz respeito aos princípios fundamentais da bioética. Desde seus primórdios, a medicina tem sido regida por princípios éticos que visam à proteção e ao bem-estar do paciente. O Juramento de Hipócrates, datado do século V a.C., consagrou valores  fundamentais  como  beneficência,  não maleficência, confidencialidade e respeito à auto -nomia do doente - pilares da bioética ainda hoje 4 . Tais valores foram reforçados no século XX por documentos como o Código de Nüremberg e  a Declaração de Helsinki , que consolidaram as bases para a ética em pesquisa e prática médica 3 .",
+  "metadata": {
+    "fonte": "bioetica_e_ia.md",
+    "documento_id": "bioetica_e_ia",
+    "chunk_index": 10,
+    "estrategia": "recursive",
+    "chunk_size": 1000,
+    "chunk_overlap": 100,
+    "n_caracteres": 777,
+    "chunk_id": "bioetica_e_ia_test09_chunk0011",
+    "pagina": null,
+    "secao": null,
+    "n_palavras": 121
+  }
+}
